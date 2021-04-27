@@ -26,11 +26,12 @@ body h1 p{
     font-weight: 400;
 }
 
-.logo{
+img .logo{
     width:  10%;
-    height: 50px;
+    height: 30%;
     font-family: "Poppins";  
-    padding: 10px;
+    font-size: 30px;
+    padding: 20px;
     margin-left: 1em;
 }
 
